@@ -9,7 +9,7 @@ Windows
 
 **Usage**
 
-Double-click ClipboardTranslator.exe in the root directory to run the program.
+Double-click Clipboard-Translator.exe in the root directory to run the program.
 
 **Note**
 
