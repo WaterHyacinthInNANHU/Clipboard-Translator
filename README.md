@@ -31,7 +31,7 @@ Windows
 
 **使用**
 
-双击根目录下的ClipboardTranslator.exe运行程序。
+双击根目录下的Clipboard-Translator.exe运行程序。
 
 **注意**
 
