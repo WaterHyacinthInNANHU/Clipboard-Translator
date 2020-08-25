@@ -15,7 +15,7 @@ Double-click ClipboardTranslator.exe in the root directory to run the program.
 
 This program automatically displays the form when the clipboard changes, and will not display it on the taskbar. To close the program, click the close button in the upper right corner to exit the program when the form is displayed.
 
-![show](C:\Users\阎明轩\Desktop\Clipboard-Translator\show.gif)
+![show](https://github.com/WaterHyacinthInNANHU/Clipboard-Translator/blob/master/show.gif)
 
 # 
 
